@@ -89060,6 +89060,10 @@ PrefabInstance:
       propertyPath: m_SleepingMode
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1389482438094219562, guid: a0969763da5ac7a45855bc18e5b87ae8, type: 3}
+      propertyPath: m_CullingMode
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2116591195823948013, guid: a0969763da5ac7a45855bc18e5b87ae8, type: 3}
       propertyPath: m_RootOrder
       value: 55
