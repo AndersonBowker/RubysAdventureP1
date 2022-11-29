@@ -59,11 +59,12 @@ public class RubyController : MonoBehaviour
                 isInvincible = false;
         }
 
-        if (Input.GetKeyDown(Keycode.C))
+        if (Input.GetKeyDown(KeyCode.C))
         {
             Launch();
         }
     }
+
     void FixedUpdate()
     {
         Vector2 position = rigidbody2d.position;
